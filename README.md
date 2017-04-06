@@ -1,4 +1,4 @@
-#miniruby  
+# miniruby  
 minirubyはrubyによるインタプリタ  
 ruby学習のために制作  
 
